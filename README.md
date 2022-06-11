@@ -16,7 +16,7 @@
 <a href="https://en.wikipedia.org/wiki/Mock_object" target="_blank" rel="noreferrer"> <img src="./Images/mocking.png" alt="amplify" width="70" height="40"/> 
 <a href="https://en.wikipedia.org/wiki/Test-driven_development" target="_blank" rel="noreferrer"> <img src="./Images/tdd.png" alt="amplify" width="70" height="40"/> 
 <a href="https://en.wikipedia.org/wiki/Behavior-driven_development" target="_blank" rel="noreferrer"> <img src="./Images/bdd.svg" alt="amplify" width="70" height="40"/> 
-<a href="https://martinfowler.com/bliki/CQRS.html" target="_blank" rel="noreferrer"> <img src="./Images/cqrs.jpg" alt="amplify" width="40" height="40"/> 
+<a href="https://martinfowler.com/bliki/CQRS.html" target="_blank" rel="noreferrer"> <img src="./Images/cqrs.jpg" alt="amplify" width="60" height="40"/> 
 <a href="https://en.wikipedia.org/wiki/Mediator_pattern" target="_blank" rel="noreferrer"> <img src="./Images/mediator.png" alt="amplify" width="70" height="40"/> 
 </p>
 
