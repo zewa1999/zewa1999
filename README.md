@@ -5,7 +5,7 @@
 - 📫 How to reach me: **costacheandrei43@gmail.com**
 
 <p align="left">
-<a href="https://www.linkedin.com/in/stelian-andrei-costache/" target="_blank" rel="noreferrer"> <img src="./Images/linkedin.png" alt="amplify" width="40" height="40"/> 
+<a href="https://www.linkedin.com/in/stelian-andrei-costache/" target="_blank" rel="noreferrer"> <img src="./Images/linkedin.png" alt="amplify" width="120" height="40"/> 
 </p>
 
 <h3 align="left">Technical principles:</h3>
