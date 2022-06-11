@@ -10,7 +10,7 @@
 <a href="https://en.wikipedia.org/wiki/SOLID" target="_blank" rel="noreferrer"> <img src="./Images/solid.png" alt="amplify" width="70" height="40"/> 
 <a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank" rel="noreferrer"> <img src="./Images/rest.png" alt="amplify" width="40" height="40"/> 
 <a href="https://en.wikipedia.org/wiki/Web_API" target="_blank" rel="noreferrer"> <img src="./Images/webApi.png" alt="amplify" width="40" height="40"/> 
-<a href="https://en.wikipedia.org/wiki/Unit_testing" target="_blank" rel="noreferrer"> <img src="./Images/unitTesting.png" alt="amplify" width="40" height="70"/> 
+<a href="https://en.wikipedia.org/wiki/Unit_testing" target="_blank" rel="noreferrer"> <img src="./Images/unitTesting.png" alt="amplify" width="40" height="40"/> 
 <a href="https://en.wikipedia.org/wiki/Integration_testing" target="_blank" rel="noreferrer"> <img src="./Images/integrationTesting.jpg" alt="amplify" width="70" height="40"/> 
 <a href="https://www.techopedia.com/definition/7035/end-to-end-test" target="_blank" rel="noreferrer"> <img src="./Images/endToEnd.jpg" alt="amplify" width="70" height="40"/> 
 <a href="https://en.wikipedia.org/wiki/Mock_object" target="_blank" rel="noreferrer"> <img src="./Images/mocking.png" alt="amplify" width="70" height="40"/> 
