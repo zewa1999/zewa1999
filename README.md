@@ -38,4 +38,5 @@
 <a href="https://en.wikipedia.org/wiki/Swagger_(software)" target="_blank" rel="noreferrer"> <img src="./Images/swagger.png" alt="amplify" width="40" height="40"/> 
 <a href="hhttps://en.wikipedia.org/wiki/OAuth" target="_blank" rel="noreferrer"> <img src="./Images/oauth.svg" alt="amplify" width="40" height="40"/> 
 <a href="https://en.wikipedia.org/wiki/Figma_(software)" target="_blank" rel="noreferrer"> <img src="./Images/figma.png" alt="amplify" width="40" height="40"/> 
+<a href="https://wixtoolset.org/" target="_blank" rel="noreferrer"> <img src="./Images/wix.png" alt="amplify" width="40" height="40"/> 
 </p>
