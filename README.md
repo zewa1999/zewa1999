@@ -2,7 +2,11 @@
 - 👀 I’m interested in **Swimming, Cooking and a lot more!**
 - 🌱 I’m currently learning for my **Master's Degree** (You probably wanted to see something about tech here, but not right now).
 - 💞️ I’m looking to collaborate on **Anything!**
-- 📫 How to reach me **costacheandrei43@gmail.com**
+- 📫 How to reach me: **costacheandrei43@gmail.com**
+
+<p align="left">
+<a href="https://www.linkedin.com/in/stelian-andrei-costache/" target="_blank" rel="noreferrer"> <img src="./Images/linkedin.png" alt="amplify" width="40" height="40"/> 
+</p>
 
 <h3 align="left">Technical principles:</h3>
 <p align="left">
