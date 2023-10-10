@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Andrei Costache**
 - 👀 I’m interested in **Swimming, Cooking and a lot more!**
-- 🌱 I’m currently learning for my **Master's Degree** (You probably wanted to see something about tech here, but not right now).
+- 🌱 I’m currently learning **Angular** **React** **AWS**
 - 💞️ I’m looking to collaborate on **Anything!**
 - 📫 How to reach me: **costacheandrei43@gmail.com**
 
