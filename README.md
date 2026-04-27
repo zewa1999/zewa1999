@@ -1,60 +1,36 @@
 # 👋 Hi, I’m Stelian-Andrei Costache
 
-Senior Software Engineer focused on building scalable, reliable backend systems using .NET and modern cloud technologies.
+Software Engineer focused on backend systems, distributed applications, cloud infrastructure, and full-stack development with .NET.
 
----
+## What I do
 
-## 🚀 What I do
+I build scalable and reliable applications using .NET, cloud services, messaging systems, databases, and clean architecture practices.
 
-- Design and build high-performance APIs and distributed systems  
-- Work with microservices, messaging, and cloud infrastructure  
-- Focus on resiliency, observability, and clean architecture  
-- Build full-stack applications when needed  
-
----
-
-## 🛠️ Technologies I use
+## Technologies
 
 <p>
-  <img src="https://cdn.simpleicons.org/dotnet" height="40"/>
-  <img src="https://cdn.simpleicons.org/postgresql" height="40"/>
-  <img src="https://cdn.simpleicons.org/mongodb" height="40"/>
-  <img src="https://cdn.simpleicons.org/amazonaws" height="40"/>
-  <img src="https://cdn.simpleicons.org/microsoftazure" height="40"/>
-  <img src="https://cdn.simpleicons.org/python" height="40"/>
-  <img src="https://cdn.simpleicons.org/databricks" height="40"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/EF%20Core-512BD4?logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polly-5C2D91?logo=dotnet&logoColor=white" />
 </p>
 
----
-
-## ⚙️ Principles & Practices
+## Principles & Patterns
 
 <p>
-  <img src="https://cdn.simpleicons.org/solid" height="40"/>
-  <img src="https://cdn.simpleicons.org/openapiinitiative" height="40"/>
-  <img src="https://cdn.simpleicons.org/testinglibrary" height="40"/>
-  <img src="https://cdn.simpleicons.org/junit5" height="40"/>
-  <img src="https://cdn.simpleicons.org/mockito" height="40"/>
+  <img src="https://img.shields.io/badge/OOP-333333" />
+  <img src="https://img.shields.io/badge/SOLID-333333" />
+  <img src="https://img.shields.io/badge/Design%20Patterns-333333" />
+  <img src="https://img.shields.io/badge/Builder-555555" />
+  <img src="https://img.shields.io/badge/Mediator-555555" />
+  <img src="https://img.shields.io/badge/CQRS-555555" />
+  <img src="https://img.shields.io/badge/Factory-555555" />
+  <img src="https://img.shields.io/badge/Strategy-555555" />
+  <img src="https://img.shields.io/badge/Decorator-555555" />
+  <img src="https://img.shields.io/badge/Adapter-555555" />
 </p>
-
----
-
-## 🧰 Tools & Ecosystem
-
-<p>
-  <img src="https://cdn.simpleicons.org/dotnet" height="40"/>
-  <img src="https://cdn.simpleicons.org/c" height="40"/>
-  <img src="https://cdn.simpleicons.org/java" height="40"/>
-  <img src="https://cdn.simpleicons.org/swift" height="40"/>
-  <img src="https://cdn.simpleicons.org/git" height="40"/>
-  <img src="https://cdn.simpleicons.org/android" height="40"/>
-  <img src="https://cdn.simpleicons.org/docker" height="40"/>
-  <img src="https://cdn.simpleicons.org/postman" height="40"/>
-  <img src="https://cdn.simpleicons.org/angular" height="40"/>
-</p>
-
----
-
-## 📫 Contact
-
-- Email: costacheandrei43@gmail.com
