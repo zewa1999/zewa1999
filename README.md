@@ -1,41 +1,60 @@
-- 👋 Hi, I’m **Andrei Costache**
-- I'm a Software Engineer which has experience in backend focused applications using .NET and frontend using Angular, React and Blazor
-- 👀 I’m interested in **Swimming, Cooking and a lot more!**
-- 📫 How to reach me: **costacheandrei43@gmail.com**
+# 👋 Hi, I’m Stelian-Andrei Costache
 
-<p align="left">
-<a href="https://www.linkedin.com/in/stelian-andrei-costache/" target="_blank" rel="noreferrer"> <img src="./Images/linkedin.png" alt="amplify" width="120" height="40"/> 
+Senior Software Engineer focused on building scalable, reliable backend systems using .NET and modern cloud technologies.
+
+---
+
+## 🚀 What I do
+
+- Design and build high-performance APIs and distributed systems  
+- Work with microservices, messaging, and cloud infrastructure  
+- Focus on resiliency, observability, and clean architecture  
+- Build full-stack applications when needed  
+
+---
+
+## 🛠️ Technologies I use
+
+<p>
+  <img src="https://cdn.simpleicons.org/dotnet" height="40"/>
+  <img src="https://cdn.simpleicons.org/postgresql" height="40"/>
+  <img src="https://cdn.simpleicons.org/mongodb" height="40"/>
+  <img src="https://cdn.simpleicons.org/amazonaws" height="40"/>
+  <img src="https://cdn.simpleicons.org/microsoftazure" height="40"/>
+  <img src="https://cdn.simpleicons.org/python" height="40"/>
+  <img src="https://cdn.simpleicons.org/databricks" height="40"/>
 </p>
 
-<h3 align="left">Technical principles:</h3>
-<p align="left">
-<a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank" rel="noreferrer"> <img src="./Images/oop.png" alt="amplify" width="40" height="40"/> 
-<a href="https://en.wikipedia.org/wiki/SOLID" target="_blank" rel="noreferrer"> <img src="./Images/solid.png" alt="amplify" width="70" height="40"/> 
-<a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank" rel="noreferrer"> <img src="./Images/rest.png" alt="amplify" width="40" height="40"/> 
-<a href="https://en.wikipedia.org/wiki/Web_API" target="_blank" rel="noreferrer"> <img src="./Images/webApi.png" alt="amplify" width="40" height="40"/> 
-<a href="https://en.wikipedia.org/wiki/Unit_testing" target="_blank" rel="noreferrer"> <img src="./Images/unitTesting.png" alt="amplify" width="40" height="40"/> 
-<a href="https://en.wikipedia.org/wiki/Integration_testing" target="_blank" rel="noreferrer"> <img src="./Images/integrationTesting.jpg" alt="amplify" width="70" height="40"/> 
-<a href="https://www.techopedia.com/definition/7035/end-to-end-test" target="_blank" rel="noreferrer"> <img src="./Images/endToEnd.jpg" alt="amplify" width="70" height="40"/> 
-<a href="https://en.wikipedia.org/wiki/Mock_object" target="_blank" rel="noreferrer"> <img src="./Images/mocking.png" alt="amplify" width="70" height="40"/> 
-<a href="https://en.wikipedia.org/wiki/Test-driven_development" target="_blank" rel="noreferrer"> <img src="./Images/tdd.png" alt="amplify" width="70" height="40"/> 
-<a href="https://en.wikipedia.org/wiki/Behavior-driven_development" target="_blank" rel="noreferrer"> <img src="./Images/bdd.svg" alt="amplify" width="70" height="40"/> 
-<a href="https://martinfowler.com/bliki/CQRS.html" target="_blank" rel="noreferrer"> <img src="./Images/cqrs.jpg" alt="amplify" width="60" height="40"/> 
-<a href="https://en.wikipedia.org/wiki/Mediator_pattern" target="_blank" rel="noreferrer"> <img src="./Images/mediator.png" alt="amplify" width="70" height="40"/> 
+---
+
+## ⚙️ Principles & Practices
+
+<p>
+  <img src="https://cdn.simpleicons.org/solid" height="40"/>
+  <img src="https://cdn.simpleicons.org/openapiinitiative" height="40"/>
+  <img src="https://cdn.simpleicons.org/testinglibrary" height="40"/>
+  <img src="https://cdn.simpleicons.org/junit5" height="40"/>
+  <img src="https://cdn.simpleicons.org/mockito" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://en.wikipedia.org/wiki/.NET" target="_blank" rel="noreferrer"> <img src="./Images/.net.png" alt="amplify" width="40" height="40"/> 
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="./Images/c++.png" alt="amplify" width="40" height="40"/> 
-<a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank" rel="noreferrer"> <img src="./Images/java.png" alt="amplify" width="40" height="40"/> 
-<a href="https://en.wikipedia.org/wiki/Swift_(programming_language)" target="_blank" rel="noreferrer"> <img src="./Images/swift.png" alt="amplify" width="70" height="40"/> 
-<a href="https://en.wikipedia.org/wiki/Git" target="_blank" rel="noreferrer"> <img src="./Images/git.png" alt="amplify" width="70" height="40"/> 
-<a href="https://en.wikipedia.org/wiki/Android_(operating_system)" target="_blank" rel="noreferrer"> <img src="./Images/android.png" alt="amplify" width="70" height="40"/> 
-<a href="https://en.wikipedia.org/wiki/Docker_(software)" target="_blank" rel="noreferrer"> <img src="./Images/docker.png" alt="amplify" width="100" height="40"/> 
-<a href="https://en.wikipedia.org/wiki/Entity_Framework" target="_blank" rel="noreferrer"> <img src="./Images/entityFramework.svg" alt="amplify" width="70" height="40"/> 
-<a href="https://en.wikipedia.org/wiki/Postman_(software)" target="_blank" rel="noreferrer"> <img src="./Images/postman.png" alt="amplify" width="100" height="40"/> 
-<a href="https://en.wikipedia.org/wiki/Swagger_(software)" target="_blank" rel="noreferrer"> <img src="./Images/swagger.png" alt="amplify" width="40" height="40"/> 
-<a href="hhttps://en.wikipedia.org/wiki/OAuth" target="_blank" rel="noreferrer"> <img src="./Images/oauth.svg" alt="amplify" width="40" height="40"/> 
-<a href="https://en.wikipedia.org/wiki/Figma_(software)" target="_blank" rel="noreferrer"> <img src="./Images/figma.png" alt="amplify" width="40" height="40"/> 
-<a href="https://wixtoolset.org/" target="_blank" rel="noreferrer"> <img src="./Images/wix.png" alt="amplify" width="70" height="40"/> 
+---
+
+## 🧰 Tools & Ecosystem
+
+<p>
+  <img src="https://cdn.simpleicons.org/dotnet" height="40"/>
+  <img src="https://cdn.simpleicons.org/c" height="40"/>
+  <img src="https://cdn.simpleicons.org/java" height="40"/>
+  <img src="https://cdn.simpleicons.org/swift" height="40"/>
+  <img src="https://cdn.simpleicons.org/git" height="40"/>
+  <img src="https://cdn.simpleicons.org/android" height="40"/>
+  <img src="https://cdn.simpleicons.org/docker" height="40"/>
+  <img src="https://cdn.simpleicons.org/postman" height="40"/>
+  <img src="https://cdn.simpleicons.org/angular" height="40"/>
 </p>
+
+---
+
+## 📫 Contact
+
+- Email: costacheandrei43@gmail.com
