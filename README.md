@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Stelian-Andrei Costache
 
-Software Engineer focused on backend systems, distributed applications, cloud infrastructure, and full-stack development with .NET.
+Software Engineer focused on backend systems, distributed applications, cloud infrastructure, and full-stack development with Angular, React or Blazor.
 
 ## What I do
 
