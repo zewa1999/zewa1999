@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Stelian-Andrei Costache
 
-Software Engineer focused on backend systems, distributed applications, and cloud infrastructure using .NET.
+Software Engineer focused on backend systems, distributed applications, and cloud infrastructure using .NET.  
+I also build full-stack applications using Angular, React, or Blazor.
 
 ## What I do
 
@@ -26,6 +27,7 @@ I design and build scalable, reliable systems using clean architecture, microser
   <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/REST-02569B" />
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
