@@ -1,7 +1,6 @@
 - 👋 Hi, I’m **Andrei Costache**
+- I'm a Software Engineer which has experience in backend focused applications using .NET and frontend using Angular, React and Blazor
 - 👀 I’m interested in **Swimming, Cooking and a lot more!**
-- 🌱 I’m currently learning **Angular** **React** **AWS**
-- 💞️ I’m looking to collaborate on **Anything!**
 - 📫 How to reach me: **costacheandrei43@gmail.com**
 
 <p align="left">
